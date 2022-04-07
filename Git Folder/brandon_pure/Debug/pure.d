@@ -1,0 +1,1 @@
+pure.o: ../pure.c
