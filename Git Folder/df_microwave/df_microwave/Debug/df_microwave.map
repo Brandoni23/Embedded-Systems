@@ -1,0 +1,1271 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                              ../uart/uart.o (CS_getSMCLK)
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+                              ../door_sensor/door_sensor.o (GPIO_registerInterrupt)
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+                              ../timer/timer.o (Interrupt_registerInterrupt)
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+                              C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o) (SysCtl_A_getTLVInfo)
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+                              ../uart/uart.o (UART_registerInterrupt)
+C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+                              C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o) (CPU_cpsid)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                              c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+                              ../display/display.o (sprintf)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+                              ../behavior.o (strcmp)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                              ../display/display.o (strlen)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o) (errno)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                              C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text.SystemCoreClockUpdate
+                0x00000000      0x21c ./system_msp432p401r.o
+ .text.Display_setWritePosition
+                0x00000000       0x14 ../display/display.o
+ .text.Display_writeChar
+                0x00000000       0x40 ../display/display.o
+ .rodata.writeCharFormat
+                0x00000000        0xd ../display/display.o
+ .text.System_pollWait
+                0x00000000       0x18 ../system/system.o
+ .text.UART_getMessage
+                0x00000000       0x30 ../uart/uart.o
+ .text._CSGetHFXTFrequency
+                0x00000000       0xe8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_setExternalClockSourceFrequency
+                0x00000000       0x2c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_initClockSignal
+                0x00000000      0x164 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_startHFXT
+                0x00000000       0x1e C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_startHFXTWithTimeout
+                0x00000000       0xf4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_startLFXT
+                0x00000000       0x1a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_startLFXTWithTimeout
+                0x00000000       0xec C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_enableClockRequest
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_disableClockRequest
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_setReferenceOscillatorFrequency
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_enableDCOExternalResistor
+                0x00000000       0x30 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_setDCOExternalResistorCalibration
+                0x00000000       0x94 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_disableDCOExternalResistor
+                0x00000000       0x30 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_setDCOCenteredFrequency
+                0x00000000       0x3c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_tuneDCOFrequency
+                0x00000000       0x84 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_setDCOFrequency
+                0x00000000      0x1b4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getBCLK
+                0x00000000       0x2c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getHSMCLK
+                0x00000000       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getACLK
+                0x00000000       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_enableFaultCounter
+                0x00000000       0x48 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_disableFaultCounter
+                0x00000000       0x48 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_resetFaultCounter
+                0x00000000       0x48 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_startFaultCounter
+                0x00000000       0x58 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_enableInterrupt
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_disableInterrupt
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getInterruptStatus
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getEnabledInterruptStatus
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_registerInterrupt
+                0x00000000       0x1e C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_unregisterInterrupt
+                0x00000000       0x14 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .rodata.GPIO_PORT_TO_BASE
+                0x00000000       0x30 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsOutputPin
+                0x00000000       0x70 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsInputPin
+                0x00000000       0x8c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsPeripheralModuleFunctionOutputPin
+                0x00000000       0xe0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsPeripheralModuleFunctionInputPin
+                0x00000000       0xe4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setOutputHighOnPin
+                0x00000000       0x3c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setOutputLowOnPin
+                0x00000000       0x40 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_toggleOutputOnPin
+                0x00000000       0x3c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsInputPinWithPullDownResistor
+                0x00000000       0xa4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setAsInputPinWithPullUpResistor
+                0x00000000       0xa0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_getInputPinValue
+                0x00000000       0x40 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_enableInterrupt
+                0x00000000       0x3c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_disableInterrupt
+                0x00000000       0x40 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_getInterruptStatus
+                0x00000000       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_clearInterruptFlag
+                0x00000000       0x40 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_interruptEdgeSelect
+                0x00000000       0x60 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_getEnabledInterruptStatus
+                0x00000000       0x98 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setDriveStrengthHigh
+                0x00000000       0x3c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_setDriveStrengthLow
+                0x00000000       0x40 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text.GPIO_unregisterInterrupt
+                0x00000000       0x2c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .rodata.g_pulPriority
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .rodata.g_pulRegs
+                0x00000000       0x50 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .rodata.g_pulDisRegs
+                0x00000000        0x8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .rodata.g_pulPendRegs
+                0x00000000        0x8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .rodata.g_pulUnpendRegs
+                0x00000000        0x8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.IntDefaultHandler
+                0x00000000        0x6 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_enableMaster
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_disableMaster
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_unregisterInterrupt
+                0x00000000       0x28 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_setPriorityGrouping
+                0x00000000       0x30 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_getPriorityGrouping
+                0x00000000       0x4c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_setPriority
+                0x00000000       0x68 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_getPriority
+                0x00000000       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_disableInterrupt
+                0x00000000       0x94 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_isEnabled
+                0x00000000       0xa0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_pendInterrupt
+                0x00000000       0x7c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_unpendInterrupt
+                0x00000000       0x68 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_setPriorityMask
+                0x00000000       0x1a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_getPriorityMask
+                0x00000000       0x10 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_setVectorTableAddress
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_getVectorTableAddress
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_enableSleepOnIsrExit
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.Interrupt_disableSleepOnIsrExit
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text.SysCtl_A_getSRAMSize
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_getFlashSize
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_getInfoFlashSize
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_disableNMISource
+                0x00000000       0x28 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_enableNMISource
+                0x00000000       0x24 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_getNMISourceStatus
+                0x00000000       0x1c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_rebootDevice
+                0x00000000       0x1c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_enablePeripheralAtCPUHalt
+                0x00000000       0x28 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_disablePeripheralAtCPUHalt
+                0x00000000       0x24 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_setWDTTimeoutResetType
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_setWDTPasswordViolationResetType
+                0x00000000       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_enableGlitchFilter
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_disableGlitchFilter
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_getTempCalibrationConstant
+                0x00000000       0x28 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_enableSRAM
+                0x00000000       0xb4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_disableSRAM
+                0x00000000       0xbc C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_enableSRAMRetention
+                0x00000000      0x254 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.SysCtl_A_disableSRAMRetention
+                0x00000000      0x240 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text.UART_initModule
+                0x00000000      0x13a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_transmitData
+                0x00000000       0x48 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_receiveData
+                0x00000000       0x42 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_enableModule
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_disableModule
+                0x00000000       0x20 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_queryStatusFlags
+                0x00000000       0x22 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_setDormant
+                0x00000000       0x22 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_resetDormant
+                0x00000000       0x22 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_transmitAddress
+                0x00000000       0x2c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_transmitBreak
+                0x00000000       0x6a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_getReceiveBufferAddressForDMA
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_getTransmitBufferAddressForDMA
+                0x00000000       0x18 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_selectDeglitchTime
+                0x00000000       0x2e C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_enableInterrupt
+                0x00000000       0x4a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_disableInterrupt
+                0x00000000       0x52 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_getInterruptStatus
+                0x00000000       0x24 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_getEnabledInterruptStatus
+                0x00000000       0x74 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_clearInterruptFlag
+                0x00000000       0x2c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.UART_unregisterInterrupt
+                0x00000000       0x7c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text.CPU_cpsid
+                0x00000000        0xe C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text.CPU_primask
+                0x00000000        0xc C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text.CPU_cpsie
+                0x00000000        0xe C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text.CPU_wfi  0x00000000        0x6 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text.CPU_basepriSet
+                0x00000000        0x8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text.CPU_basepriGet
+                0x00000000        0xc C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text._sprintf_r
+                0x00000000       0x38 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xf0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.cleanup_glue
+                0x00000000       0x1a C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .eh_frame      0x00000000        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MAIN_FLASH       0x00000000         0x00040000         xr
+INFO_FLASH       0x00200000         0x00004000         xr
+SRAM_CODE        0x01000000         0x00010000         xrw
+SRAM_DATA        0x20000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./architecture.o
+LOAD ../behavior.o
+LOAD ./main.o
+LOAD ./mybehavior.o
+LOAD ./system_msp432p401r.o
+LOAD ../display/display.o
+LOAD ./display/mydisplay.o
+LOAD ../door_sensor/door_sensor.o
+LOAD ./door_sensor/mydoor_sensor.o
+LOAD ./gcc/startup_msp432p401r_gcc.o
+LOAD ../keypad/keypad.o
+LOAD ./system/mysystem.o
+LOAD ../system/system.o
+LOAD ./timer/mytimer.o
+LOAD ../timer/timer.o
+LOAD ./uart/myuart.o
+LOAD ../uart/uart.o
+                0x00000000                PROVIDE (_intvecs_base_address, DEFINED (_intvecs_base_address)?_intvecs_base_address:0x0)
+
+.intvecs        0x00000000       0xe4
+ *(.intvecs)
+ .intvecs       0x00000000       0xe4 ./gcc/startup_msp432p401r_gcc.o
+                0x00000000                interruptVectors
+                0x00200000                PROVIDE (_mailbox_base_address, 0x200000)
+
+.flashMailbox
+ *(.flashMailbox)
+                0x00201000                PROVIDE (_tlv_base_address, 0x201000)
+
+.tlvTable
+ *(.tlvTable)
+                0x00202000                PROVIDE (_bsl_base_address, 0x202000)
+
+.bslArea
+ *(.bslArea)
+                0x20000000                PROVIDE (_vtable_base_address, DEFINED (_vtable_base_address)?_vtable_base_address:0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x000000f0     0x16c8
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000f0        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x000000f0       0x40 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000130       0x74 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000130                _start
+                0x00000130                _mainCRTStartup
+ .text          0x000001a4        0x0 ./architecture.o
+ .text          0x000001a4        0x0 ../behavior.o
+ .text          0x000001a4        0x0 ./main.o
+ .text          0x000001a4        0x0 ./mybehavior.o
+ .text          0x000001a4        0x0 ./system_msp432p401r.o
+ .text          0x000001a4        0x0 ../display/display.o
+ .text          0x000001a4        0x0 ./display/mydisplay.o
+ .text          0x000001a4        0x0 ../door_sensor/door_sensor.o
+ .text          0x000001a4        0x0 ./door_sensor/mydoor_sensor.o
+ .text          0x000001a4        0x0 ./gcc/startup_msp432p401r_gcc.o
+ .text          0x000001a4        0x0 ../keypad/keypad.o
+ .text          0x000001a4        0x0 ./system/mysystem.o
+ .text          0x000001a4        0x0 ../system/system.o
+ .text          0x000001a4        0x0 ./timer/mytimer.o
+ .text          0x000001a4        0x0 ../timer/timer.o
+ .text          0x000001a4        0x0 ./uart/myuart.o
+ .text          0x000001a4        0x0 ../uart/uart.o
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .text          0x000001a4        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .text          0x000001a4        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x000001a4        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x000001a4        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x000001a4        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x000001a4        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .text          0x000001a4       0x14 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+                0x000001a4                strcmp
+ .text          0x000001b8       0x10 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                0x000001b8                strlen
+ .text          0x000001c8        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x000001c8        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x000001c8        0x8 
+ .text          0x000001d0       0xa0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+                0x000001d0                memchr
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .text          0x00000270        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .text          0x00000270        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x00000270        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.runMicrowaveBehavior
+                0x00000270       0x98 ../behavior.o
+                0x00000270                runMicrowaveBehavior
+ .text.Timer_handleTimeout
+                0x00000308       0x78 ../behavior.o
+                0x00000308                Timer_handleTimeout
+ .text.DoorSensor_reportDoorOpened
+                0x00000380       0x24 ../behavior.o
+                0x00000380                DoorSensor_reportDoorOpened
+ .text.main     0x000003a4       0x38 ./main.o
+                0x000003a4                main
+ .text.SystemInit
+                0x000003dc       0x64 ./system_msp432p401r.o
+                0x000003dc                SystemInit
+ .text.Display_setup
+                0x00000440       0x10 ../display/display.o
+                0x00000440                Display_setup
+ .text.Display_clear
+                0x00000450       0x24 ../display/display.o
+                0x00000450                Display_clear
+ .text.Display_writeString
+                0x00000474       0x30 ../display/display.o
+                0x00000474                Display_writeString
+ .text.DoorSensor_handleInterrupt
+                0x000004a4       0x74 ../door_sensor/door_sensor.o
+                0x000004a4                DoorSensor_handleInterrupt
+ .text.DoorSensor_setup
+                0x00000518       0x98 ../door_sensor/door_sensor.o
+                0x00000518                DoorSensor_setup
+ .text.DoorSensor_isOpen
+                0x000005b0       0x60 ../door_sensor/door_sensor.o
+                0x000005b0                DoorSensor_isOpen
+ .text.Default_Handler
+                0x00000610        0x2 ./gcc/startup_msp432p401r_gcc.o
+                0x00000610                CS_IRQHandler
+                0x00000610                DebugMon_Handler
+                0x00000610                AES256_IRQHandler
+                0x00000610                HardFault_Handler
+                0x00000610                SysTick_Handler
+                0x00000610                PendSV_Handler
+                0x00000610                NMI_Handler
+                0x00000610                RTC_C_IRQHandler
+                0x00000610                PORT1_IRQHandler
+                0x00000610                FPU_IRQHandler
+                0x00000610                PORT2_IRQHandler
+                0x00000610                TA3_0_IRQHandler
+                0x00000610                UsageFault_Handler
+                0x00000610                DMA_INT3_IRQHandler
+                0x00000610                TA2_0_IRQHandler
+                0x00000610                DMA_INT1_IRQHandler
+                0x00000610                WDT_A_IRQHandler
+                0x00000610                TA2_N_IRQHandler
+                0x00000610                TA1_0_IRQHandler
+                0x00000610                PSS_IRQHandler
+                0x00000610                DMA_INT2_IRQHandler
+                0x00000610                EUSCIA3_IRQHandler
+                0x00000610                DMA_INT0_IRQHandler
+                0x00000610                PORT4_IRQHandler
+                0x00000610                PORT5_IRQHandler
+                0x00000610                EUSCIB0_IRQHandler
+                0x00000610                Default_Handler
+                0x00000610                T32_INTC_IRQHandler
+                0x00000610                TA3_N_IRQHandler
+                0x00000610                TA0_0_IRQHandler
+                0x00000610                EUSCIA2_IRQHandler
+                0x00000610                PORT6_IRQHandler
+                0x00000610                PORT3_IRQHandler
+                0x00000610                MemManage_Handler
+                0x00000610                SVC_Handler
+                0x00000610                TA1_N_IRQHandler
+                0x00000610                EUSCIA1_IRQHandler
+                0x00000610                COMP_E1_IRQHandler
+                0x00000610                EUSCIB2_IRQHandler
+                0x00000610                FLCTL_IRQHandler
+                0x00000610                EUSCIB3_IRQHandler
+                0x00000610                T32_INT1_IRQHandler
+                0x00000610                ADC14_IRQHandler
+                0x00000610                DMA_ERR_IRQHandler
+                0x00000610                EUSCIA0_IRQHandler
+                0x00000610                BusFault_Handler
+                0x00000610                PCM_IRQHandler
+                0x00000610                TA0_N_IRQHandler
+                0x00000610                COMP_E0_IRQHandler
+                0x00000610                EUSCIB1_IRQHandler
+                0x00000610                T32_INT2_IRQHandler
+ *fill*         0x00000612        0x2 
+ .text.Reset_Handler
+                0x00000614       0x2c ./gcc/startup_msp432p401r_gcc.o
+                0x00000614                Reset_Handler
+ .text.System_setup
+                0x00000640       0x20 ../system/system.o
+                0x00000640                System_setup
+ .text.System_start
+                0x00000660       0x10 ../system/system.o
+                0x00000660                System_start
+ .text.Timer_setup
+                0x00000670       0x58 ../timer/timer.o
+                0x00000670                Timer_setup
+ .text.Timer_start
+                0x000006c8       0x18 ../timer/timer.o
+                0x000006c8                Timer_start
+ .text.Timer_stop
+                0x000006e0       0x28 ../timer/timer.o
+                0x000006e0                Timer_stop
+ .text.Timer_clearInterruptFlag
+                0x00000708       0x18 ../timer/timer.o
+                0x00000708                Timer_clearInterruptFlag
+ .text._UART_handleInterrupt
+                0x00000720       0x74 ../uart/uart.o
+ .text.UART_isSetup
+                0x00000794        0xc ../uart/uart.o
+                0x00000794                UART_isSetup
+ .text.UART_setup
+                0x000007a0       0xd8 ../uart/uart.o
+                0x000007a0                UART_setup
+ .text.UART_send
+                0x00000878       0x34 ../uart/uart.o
+                0x00000878                UART_send
+ .text._CSGetDividerValue
+                0x000008ac       0x78 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text._CSComputeCLKFrequency
+                0x00000924      0x130 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text._CSGetDOCFrequency
+                0x00000a54       0x8c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .text.CS_getDCOFrequency
+                0x00000ae0      0x118 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                0x00000ae0                CS_getDCOFrequency
+ .text.CS_getSMCLK
+                0x00000bf8       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                0x00000bf8                CS_getSMCLK
+ .text.CS_getMCLK
+                0x00000c2c       0x34 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                0x00000c2c                CS_getMCLK
+ .text.CS_clearInterruptFlag
+                0x00000c60       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                0x00000c60                CS_clearInterruptFlag
+ .text.GPIO_registerInterrupt
+                0x00000c98       0x30 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+                0x00000c98                GPIO_registerInterrupt
+ .text.Interrupt_registerInterrupt
+                0x00000cc8       0x64 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+                0x00000cc8                Interrupt_registerInterrupt
+ .text.Interrupt_enableInterrupt
+                0x00000d2c       0x94 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+                0x00000d2c                Interrupt_enableInterrupt
+ .text.SysCtl_A_getTLVInfo
+                0x00000dc0       0xa8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+                0x00000dc0                SysCtl_A_getTLVInfo
+ .text.UART_registerInterrupt
+                0x00000e68       0x88 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+                0x00000e68                UART_registerInterrupt
+ .text.exit     0x00000ef0       0x28 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x00000ef0                exit
+ .text.__libc_init_array
+                0x00000f18       0x48 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x00000f18                __libc_init_array
+ .text.memset   0x00000f60       0x10 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x00000f60                memset
+ .text.sprintf  0x00000f70       0x40 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+                0x00000f70                siprintf
+                0x00000f70                sprintf
+ .text.__ssputs_r
+                0x00000fb0       0xb4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00000fb0                __ssputs_r
+ .text._svfprintf_r
+                0x00001064      0x1ec C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00001064                _svfiprintf_r
+                0x00001064                _svfprintf_r
+ .text._printf_common
+                0x00001250       0xea C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001250                _printf_common
+ *fill*         0x0000133a        0x2 
+ .text._printf_i
+                0x0000133c      0x224 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000133c                _printf_i
+ .text.memcpy   0x00001560       0x16 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x00001560                memcpy
+ .text.memmove  0x00001576       0x32 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+                0x00001576                memmove
+ .text._free_r  0x000015a8       0x9c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x000015a8                _free_r
+ .text._malloc_r
+                0x00001644       0xb4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00001644                _malloc_r
+ .text._realloc_r
+                0x000016f8       0x4c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+                0x000016f8                _realloc_r
+ .text._sbrk_r  0x00001744       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x00001744                _sbrk_r
+ .text.__malloc_lock
+                0x00001764        0x2 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00001764                __malloc_lock
+ .text.__malloc_unlock
+                0x00001766        0x2 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00001766                __malloc_unlock
+ .text._malloc_usable_size_r
+                0x00001768       0x10 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+                0x00001768                _malloc_usable_size_r
+ .text._sbrk    0x00001778       0x1c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x00001778                _sbrk
+ .text._exit    0x00001794        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x00001794                _exit
+                0x00001798                . = ALIGN (0x4)
+ *(.ctors)
+                0x00001798                . = ALIGN (0x4)
+ *(.dtors)
+                0x00001798                . = ALIGN (0x4)
+                0x00001798                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00001798        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x0000179c                __init_array_end = .
+ *(.init)
+ .init          0x0000179c        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000179c                _init
+ .init          0x000017a0        0x8 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x000017a8        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x000017a8                _fini
+ .fini_array    0x000017ac        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x000017b0        0x8 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.glue_7         0x000017b8        0x0
+ .glue_7        0x000017b8        0x0 linker stubs
+
+.glue_7t        0x000017b8        0x0
+ .glue_7t       0x000017b8        0x0 linker stubs
+
+.vfp11_veneer   0x000017b8        0x0
+ .vfp11_veneer  0x000017b8        0x0 linker stubs
+
+.v4_bx          0x000017b8        0x0
+ .v4_bx         0x000017b8        0x0 linker stubs
+
+.iplt           0x000017b8        0x0
+ .iplt          0x000017b8        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x000017b8       0x77
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.Timer_handleTimeout.str1.4
+                0x000017b8        0x8 ../behavior.o
+                                  0x6 (size before relaxing)
+ .rodata.clear_msg
+                0x000017c0        0x4 ../display/display.o
+ .rodata.writeStringFormat
+                0x000017c4        0xd ../display/display.o
+ *fill*         0x000017d1        0x3 
+ .rodata.GPIO_PORT_TO_INT
+                0x000017d4       0x1c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .rodata.g_pulEnRegs
+                0x000017f0        0x8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .rodata._global_impure_ptr
+                0x000017f8        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x000017f8                _global_impure_ptr
+ .rodata._svfprintf_r.str1.1
+                0x000017fc       0x11 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x0000180d       0x22 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+
+.eh_frame       0x00001830        0x0
+ .eh_frame      0x00001830        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.exidx      0x00001830        0x8
+                0x00001830                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00001830        0x8 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00001838                __exidx_end = .
+
+.ARM.extab      0x00001838        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00001838        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00001838                __etext = .
+
+.rel.dyn        0x00001838        0x0
+ .rel.iplt      0x00001838        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.data           0x20000000       0xa8 load address 0x00001838
+                0x00001838                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x20000000        0x4 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x20000004        0x0 ./architecture.o
+ .data          0x20000004        0x0 ../behavior.o
+ .data          0x20000004        0x0 ./main.o
+ .data          0x20000004        0x0 ./mybehavior.o
+ .data          0x20000004        0x0 ./system_msp432p401r.o
+ .data          0x20000004        0x0 ../display/display.o
+ .data          0x20000004        0x0 ./display/mydisplay.o
+ .data          0x20000004        0x0 ../door_sensor/door_sensor.o
+ .data          0x20000004        0x0 ./door_sensor/mydoor_sensor.o
+ .data          0x20000004        0x0 ./gcc/startup_msp432p401r_gcc.o
+ .data          0x20000004        0x0 ../keypad/keypad.o
+ .data          0x20000004        0x0 ./system/mysystem.o
+ .data          0x20000004        0x0 ../system/system.o
+ .data          0x20000004        0x0 ./timer/mytimer.o
+ .data          0x20000004        0x0 ../timer/timer.o
+ .data          0x20000004        0x0 ./uart/myuart.o
+ .data          0x20000004        0x0 ../uart/uart.o
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .data          0x20000004        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .data          0x20000004        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x20000004        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data.DoorSensor_interrupt
+                0x20000004        0x4 ./architecture.o
+                0x20000004                DoorSensor_interrupt
+ .data.DoorSensor_pin
+                0x20000008        0x4 ./architecture.o
+                0x20000008                DoorSensor_pin
+ .data.DoorSensor_port
+                0x2000000c        0x4 ./architecture.o
+                0x2000000c                DoorSensor_port
+ .data.beginning
+                0x20000010        0x1 ../behavior.o
+ *fill*         0x20000011        0x3 
+ .data.cookTime
+                0x20000014        0x6 ./main.o
+                0x20000014                cookTime
+ *fill*         0x2000001a        0x2 
+ .data.SystemCoreClock
+                0x2000001c        0x4 ./system_msp432p401r.o
+                0x2000001c                SystemCoreClock
+ .data.UARTConfig.8267
+                0x20000020       0x24 ../uart/uart.o
+ .data._impure_ptr
+                0x20000044        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x20000044                _impure_ptr
+ .data.impure_data
+                0x20000048       0x60 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x200000a8                . = ALIGN (0x4)
+                0x200000a8                __data_end__ = .
+
+.igot.plt       0x200000a8        0x0 load address 0x000018e0
+ .igot.plt      0x200000a8        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+vtable          0x20000400       0xe8 load address 0x000018e0
+ vtable         0x20000400       0xe8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+
+.bss            0x200004e8       0x68
+                0x200004e8                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x200004e8        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x200004e8       0x1c c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x20000504        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x20000504        0x0 ./architecture.o
+ .bss           0x20000504        0x0 ../behavior.o
+ .bss           0x20000504        0x0 ./main.o
+ .bss           0x20000504        0x0 ./mybehavior.o
+ .bss           0x20000504        0x0 ./system_msp432p401r.o
+ .bss           0x20000504        0x0 ../display/display.o
+ .bss           0x20000504        0x0 ./display/mydisplay.o
+ .bss           0x20000504        0x0 ../door_sensor/door_sensor.o
+ .bss           0x20000504        0x0 ./door_sensor/mydoor_sensor.o
+ .bss           0x20000504        0x0 ./gcc/startup_msp432p401r_gcc.o
+ .bss           0x20000504        0x0 ../keypad/keypad.o
+ .bss           0x20000504        0x0 ./system/mysystem.o
+ .bss           0x20000504        0x0 ../system/system.o
+ .bss           0x20000504        0x0 ./timer/mytimer.o
+ .bss           0x20000504        0x0 ../timer/timer.o
+ .bss           0x20000504        0x0 ./uart/myuart.o
+ .bss           0x20000504        0x0 ../uart/uart.o
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .bss           0x20000504        0x0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .bss           0x20000504        0x0 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .bss           0x20000504        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x20000504        0x0 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.doorPreviouslyOpen
+                0x20000504        0x1 ../behavior.o
+ .bss.current_line
+                0x20000505        0x1 ../display/display.o
+ .bss.current_start
+                0x20000506        0x1 ../display/display.o
+ *fill*         0x20000507        0x1 
+ .bss.msg_buffer
+                0x20000508       0x20 ../display/display.o
+ .bss.isOpen    0x20000528        0x1 ../door_sensor/door_sensor.o
+ *fill*         0x20000529        0x3 
+ .bss.UART_msg  0x2000052c        0x8 ../uart/uart.o
+ .bss.UART_msgIndex
+                0x20000534        0x1 ../uart/uart.o
+ .bss.UART_msgReady
+                0x20000535        0x1 ../uart/uart.o
+                0x20000535                UART_msgReady
+ .bss.UART_ready
+                0x20000536        0x1 ../uart/uart.o
+ *fill*         0x20000537        0x1 
+ .bss.hfxtFreq  0x20000538        0x4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .bss.lfxtFreq  0x2000053c        0x4 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .bss.__malloc_free_list
+                0x20000540        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000540                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x20000544        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000544                __malloc_sbrk_start
+ .bss.heap_end.5377
+                0x20000548        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x2000054c        0x4 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x2000054c                errno
+                0x20000550                . = ALIGN (0x4)
+                0x20000550                __bss_end__ = .
+
+.heap           0x20000550        0x0
+                0x20000550                __heap_start__ = .
+                0x20000550                end = __heap_start__
+                0x20000550                _end = end
+                0x20000550                __end = end
+ *(.heap)
+                0x20000550                __heap_end__ = .
+                0x20000550                __HeapLimit = __heap_end__
+
+.stack          0x20000550        0x0
+                0x20000550                _stack = .
+ *(.stack)
+                0x20010000                __StackTop = (ORIGIN (REGION_STACK) + LENGTH (REGION_STACK))
+                0x20010000                PROVIDE (__stack, __StackTop)
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/display/lib/display.am4fg
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/grlib/lib/gcc/m4f/grlib.a
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\third_party/spiffs/lib/gcc/m4f/spiffs.a
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/drivers/lib/drivers_msp432p401x.am4fg
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\third_party/fatfs/lib/gcc/m4f/fatfs.a
+LOAD C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
+START GROUP
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg_nano.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+END GROUP
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(df_microwave.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 ./architecture.o
+ .ARM.attributes
+                0x000000af       0x39 ../behavior.o
+ .ARM.attributes
+                0x000000e8       0x39 ./main.o
+ .ARM.attributes
+                0x00000121       0x39 ./mybehavior.o
+ .ARM.attributes
+                0x0000015a       0x39 ./system_msp432p401r.o
+ .ARM.attributes
+                0x00000193       0x39 ../display/display.o
+ .ARM.attributes
+                0x000001cc       0x39 ./display/mydisplay.o
+ .ARM.attributes
+                0x00000205       0x39 ../door_sensor/door_sensor.o
+ .ARM.attributes
+                0x0000023e       0x39 ./door_sensor/mydoor_sensor.o
+ .ARM.attributes
+                0x00000277       0x39 ./gcc/startup_msp432p401r_gcc.o
+ .ARM.attributes
+                0x000002b0       0x39 ../keypad/keypad.o
+ .ARM.attributes
+                0x000002e9       0x39 ./system/mysystem.o
+ .ARM.attributes
+                0x00000322       0x39 ../system/system.o
+ .ARM.attributes
+                0x0000035b       0x39 ./timer/mytimer.o
+ .ARM.attributes
+                0x00000394       0x39 ../timer/timer.o
+ .ARM.attributes
+                0x000003cd       0x39 ./uart/myuart.o
+ .ARM.attributes
+                0x00000406       0x39 ../uart/uart.o
+ .ARM.attributes
+                0x0000043f       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .ARM.attributes
+                0x00000478       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .ARM.attributes
+                0x000004b1       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .ARM.attributes
+                0x000004ea       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .ARM.attributes
+                0x00000523       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .ARM.attributes
+                0x0000055c       0x39 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .ARM.attributes
+                0x00000595       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000005c9       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000005fd       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000631       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000665       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000699       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000006b9       0x1b C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000006d4       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000708       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000073c       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000075c       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000790       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000007c4       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000007f8       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000082c       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000860       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000894       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000008c8       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x000008fc       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000930       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000964       0x34 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000998       0x34 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x000009cc       0x22 c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e ./architecture.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f ../behavior.o
+ .comment       0x0000007e       0x7f ./main.o
+ .comment       0x0000007e       0x7f ./mybehavior.o
+ .comment       0x0000007e       0x7f ./system_msp432p401r.o
+ .comment       0x0000007e       0x7f ../display/display.o
+ .comment       0x0000007e       0x7f ./display/mydisplay.o
+ .comment       0x0000007e       0x7f ../door_sensor/door_sensor.o
+ .comment       0x0000007e       0x7f ./door_sensor/mydoor_sensor.o
+ .comment       0x0000007e       0x7f ./gcc/startup_msp432p401r_gcc.o
+ .comment       0x0000007e       0x7f ../keypad/keypad.o
+ .comment       0x0000007e       0x7f ./system/mysystem.o
+ .comment       0x0000007e       0x7f ../system/system.o
+ .comment       0x0000007e       0x7f ./timer/mytimer.o
+ .comment       0x0000007e       0x7f ../timer/timer.o
+ .comment       0x0000007e       0x7f ./uart/myuart.o
+ .comment       0x0000007e       0x7f ../uart/uart.o
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .comment       0x0000007e       0x7f C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_info     0x00000000     0x6a94
+ .debug_info    0x00000000       0xfc ./architecture.o
+ .debug_info    0x000000fc      0x9aa ../behavior.o
+ .debug_info    0x00000aa6      0x13a ./main.o
+ .debug_info    0x00000be0      0x930 ./mybehavior.o
+ .debug_info    0x00001510      0xd1b ./system_msp432p401r.o
+ .debug_info    0x0000222b      0xa79 ../display/display.o
+ .debug_info    0x00002ca4      0x8ef ./display/mydisplay.o
+ .debug_info    0x00003593      0x17e ../door_sensor/door_sensor.o
+ .debug_info    0x00003711       0xf2 ./door_sensor/mydoor_sensor.o
+ .debug_info    0x00003803      0x144 ./gcc/startup_msp432p401r_gcc.o
+ .debug_info    0x00003947       0xb0 ./system/mysystem.o
+ .debug_info    0x000039f7      0x122 ../system/system.o
+ .debug_info    0x00003b19      0x17f ../timer/timer.o
+ .debug_info    0x00003c98       0xc9 ./uart/myuart.o
+ .debug_info    0x00003d61      0x30f ../uart/uart.o
+ .debug_info    0x00004070      0xa60 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_info    0x00004ad0      0xa5a C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_info    0x0000552a      0x678 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_info    0x00005ba2      0x5f0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_info    0x00006192      0x77d C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_info    0x0000690f      0x185 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_abbrev   0x00000000     0x171f
+ .debug_abbrev  0x00000000       0x6d ./architecture.o
+ .debug_abbrev  0x0000006d      0x1be ../behavior.o
+ .debug_abbrev  0x0000022b       0x9a ./main.o
+ .debug_abbrev  0x000002c5      0x172 ./mybehavior.o
+ .debug_abbrev  0x00000437      0x115 ./system_msp432p401r.o
+ .debug_abbrev  0x0000054c      0x1db ../display/display.o
+ .debug_abbrev  0x00000727      0x15c ./display/mydisplay.o
+ .debug_abbrev  0x00000883       0xd2 ../door_sensor/door_sensor.o
+ .debug_abbrev  0x00000955       0x6d ./door_sensor/mydoor_sensor.o
+ .debug_abbrev  0x000009c2       0xbd ./gcc/startup_msp432p401r_gcc.o
+ .debug_abbrev  0x00000a7f       0x5c ./system/mysystem.o
+ .debug_abbrev  0x00000adb       0xce ../system/system.o
+ .debug_abbrev  0x00000ba9       0xb4 ../timer/timer.o
+ .debug_abbrev  0x00000c5d       0x5c ./uart/myuart.o
+ .debug_abbrev  0x00000cb9      0x16c ../uart/uart.o
+ .debug_abbrev  0x00000e25      0x1b6 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_abbrev  0x00000fdb      0x1a9 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_abbrev  0x00001184      0x1b3 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_abbrev  0x00001337      0x16b C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_abbrev  0x000014a2      0x17b C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_abbrev  0x0000161d      0x102 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_aranges  0x00000000      0x6a0
+ .debug_aranges
+                0x00000000       0x18 ./architecture.o
+ .debug_aranges
+                0x00000018       0x30 ../behavior.o
+ .debug_aranges
+                0x00000048       0x20 ./main.o
+ .debug_aranges
+                0x00000068       0x18 ./mybehavior.o
+ .debug_aranges
+                0x00000080       0x28 ./system_msp432p401r.o
+ .debug_aranges
+                0x000000a8       0x40 ../display/display.o
+ .debug_aranges
+                0x000000e8       0x18 ./display/mydisplay.o
+ .debug_aranges
+                0x00000100       0x30 ../door_sensor/door_sensor.o
+ .debug_aranges
+                0x00000130       0x18 ./door_sensor/mydoor_sensor.o
+ .debug_aranges
+                0x00000148       0x28 ./gcc/startup_msp432p401r_gcc.o
+ .debug_aranges
+                0x00000170       0x18 ./system/mysystem.o
+ .debug_aranges
+                0x00000188       0x30 ../system/system.o
+ .debug_aranges
+                0x000001b8       0x38 ../timer/timer.o
+ .debug_aranges
+                0x000001f0       0x18 ./uart/myuart.o
+ .debug_aranges
+                0x00000208       0x40 ../uart/uart.o
+ .debug_aranges
+                0x00000248      0x138 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_aranges
+                0x00000380       0xb8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_aranges
+                0x00000438       0xb8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_aranges
+                0x000004f0       0xb0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_aranges
+                0x000005a0       0xb8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_aranges
+                0x00000658       0x48 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_line     0x00000000     0x3c72
+ .debug_line    0x00000000      0x23f ./architecture.o
+ .debug_line    0x0000023f      0x38b ../behavior.o
+ .debug_line    0x000005ca      0x2bb ./main.o
+ .debug_line    0x00000885      0x343 ./mybehavior.o
+ .debug_line    0x00000bc8      0x26a ./system_msp432p401r.o
+ .debug_line    0x00000e32      0x375 ../display/display.o
+ .debug_line    0x000011a7      0x2b8 ./display/mydisplay.o
+ .debug_line    0x0000145f      0x2aa ../door_sensor/door_sensor.o
+ .debug_line    0x00001709      0x24a ./door_sensor/mydoor_sensor.o
+ .debug_line    0x00001953      0x153 ./gcc/startup_msp432p401r_gcc.o
+ .debug_line    0x00001aa6        0x0 ../keypad/keypad.o
+ .debug_line    0x00001aa6      0x1c0 ./system/mysystem.o
+ .debug_line    0x00001c66      0x212 ../system/system.o
+ .debug_line    0x00001e78        0x0 ./timer/mytimer.o
+ .debug_line    0x00001e78      0x232 ../timer/timer.o
+ .debug_line    0x000020aa      0x1d2 ./uart/myuart.o
+ .debug_line    0x0000227c      0x325 ../uart/uart.o
+ .debug_line    0x000025a1      0x63c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_line    0x00002bdd      0x383 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_line    0x00002f60      0x394 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_line    0x000032f4      0x3cc C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_line    0x000036c0      0x3cf C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_line    0x00003a8f      0x1e3 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_str      0x00000000     0x2b79
+ .debug_str     0x00000000      0x21a ./architecture.o
+                                0x25f (size before relaxing)
+ .debug_str     0x0000021a      0x4a8 ../behavior.o
+                                0x6dc (size before relaxing)
+ .debug_str     0x000006c2        0xf ./main.o
+                                0x26a (size before relaxing)
+ .debug_str     0x000006d1       0x10 ./mybehavior.o
+                                0x687 (size before relaxing)
+ .debug_str     0x000006e1      0x820 ./system_msp432p401r.o
+                                0xafc (size before relaxing)
+ .debug_str     0x00000f01      0x10a ../display/display.o
+                                0x703 (size before relaxing)
+ .debug_str     0x0000100b       0x17 ./display/mydisplay.o
+                                0x64a (size before relaxing)
+ .debug_str     0x00001022       0xa0 ../door_sensor/door_sensor.o
+                                0x2b6 (size before relaxing)
+ .debug_str     0x000010c2       0x1f ./door_sensor/mydoor_sensor.o
+                                0x26c (size before relaxing)
+ .debug_str     0x000010e1       0x9e ./gcc/startup_msp432p401r_gcc.o
+                                0x26d (size before relaxing)
+ .debug_str     0x0000117f       0x4c ../keypad/keypad.o
+                                0x12d (size before relaxing)
+ .debug_str     0x000011cb       0x15 ./system/mysystem.o
+                                0x213 (size before relaxing)
+ .debug_str     0x000011e0       0x81 ../system/system.o
+                                0x229 (size before relaxing)
+ .debug_str     0x00001261       0x13 ./timer/mytimer.o
+                                0x14a (size before relaxing)
+ .debug_str     0x00001274       0xae ../timer/timer.o
+                                0x25b (size before relaxing)
+ .debug_str     0x00001322       0x11 ./uart/myuart.o
+                                0x223 (size before relaxing)
+ .debug_str     0x00001333      0x168 ../uart/uart.o
+                                0x38a (size before relaxing)
+ .debug_str     0x0000149b      0x787 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+                                0x94f (size before relaxing)
+ .debug_str     0x00001c22      0x3de C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+                                0x63e (size before relaxing)
+ .debug_str     0x00002000      0x36b C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+                                0x58b (size before relaxing)
+ .debug_str     0x0000236b      0x425 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+                                0x6a3 (size before relaxing)
+ .debug_str     0x00002790      0x30d C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+                                0x5e1 (size before relaxing)
+ .debug_str     0x00002a9d       0xdc C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+                                0x276 (size before relaxing)
+
+.debug_loc      0x00000000      0x39d
+ .debug_loc     0x00000000       0x34 ../behavior.o
+ .debug_loc     0x00000034      0x1c6 ./system_msp432p401r.o
+ .debug_loc     0x000001fa       0x58 ../display/display.o
+ .debug_loc     0x00000252       0x29 ../door_sensor/door_sensor.o
+ .debug_loc     0x0000027b       0x26 ./gcc/startup_msp432p401r_gcc.o
+ .debug_loc     0x000002a1       0x13 ../system/system.o
+ .debug_loc     0x000002b4       0xe9 ../uart/uart.o
+
+.debug_ranges   0x00000000      0x520
+ .debug_ranges  0x00000000       0x20 ../behavior.o
+ .debug_ranges  0x00000020       0x10 ./main.o
+ .debug_ranges  0x00000030       0x18 ./system_msp432p401r.o
+ .debug_ranges  0x00000048       0x30 ../display/display.o
+ .debug_ranges  0x00000078       0x20 ../door_sensor/door_sensor.o
+ .debug_ranges  0x00000098       0x18 ./gcc/startup_msp432p401r_gcc.o
+ .debug_ranges  0x000000b0       0x20 ../system/system.o
+ .debug_ranges  0x000000d0       0x28 ../timer/timer.o
+ .debug_ranges  0x000000f8       0x30 ../uart/uart.o
+ .debug_ranges  0x00000128      0x128 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_ranges  0x00000250       0xa8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_ranges  0x000002f8       0xa8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_ranges  0x000003a0       0xa0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_ranges  0x00000440       0xa8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_ranges  0x000004e8       0x38 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+
+.debug_frame    0x00000000     0x18c8
+ .debug_frame   0x00000000       0x60 ../behavior.o
+ .debug_frame   0x00000060       0x28 ./main.o
+ .debug_frame   0x00000088       0x30 ./system_msp432p401r.o
+ .debug_frame   0x000000b8       0x90 ../display/display.o
+ .debug_frame   0x00000148       0x60 ../door_sensor/door_sensor.o
+ .debug_frame   0x000001a8       0x38 ./gcc/startup_msp432p401r_gcc.o
+ .debug_frame   0x000001e0       0x58 ../system/system.o
+ .debug_frame   0x00000238       0x78 ../timer/timer.o
+ .debug_frame   0x000002b0       0x84 ../uart/uart.o
+ .debug_frame   0x00000334      0x53c C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cs.o)
+ .debug_frame   0x00000870      0x324 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(gpio.o)
+ .debug_frame   0x00000b94      0x2e0 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(interrupt.o)
+ .debug_frame   0x00000e74      0x2c8 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(sysctl_a.o)
+ .debug_frame   0x0000113c      0x324 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(uart.o)
+ .debug_frame   0x00001460       0x70 C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source\ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a(cpu.o)
+ .debug_frame   0x000014d0       0x28 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x000014f8       0x2c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00001524       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00001544       0x6c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x000015b0       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x000015d0       0x90 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00001660       0x60 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000016c0       0x28 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000016e8       0x28 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001710       0x38 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00001748       0x2c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00001774       0x3c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x000017b0       0x2c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000017dc       0x30 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000180c       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000182c       0x5c C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00001888       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x000018a8       0x20 C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
