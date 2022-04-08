@@ -1,0 +1,11 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://gitlab.com/encps/bucknell/eceg247/spring2020/release/h03a_intro_sw_dev_cmsis.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
