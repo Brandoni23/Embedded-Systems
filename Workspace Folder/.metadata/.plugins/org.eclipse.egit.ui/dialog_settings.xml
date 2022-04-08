@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+		<item value="git.eclipse.org"/>
+		<item value="gitlab.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://gitlab.com/encps/bucknell/eceg247/spring2020/release/h03a_intro_sw_dev_pure.git"/>
+		<item value="https://gitlab.com/encps/bucknell/eceg247/spring2020/release/h03a_intro_sw_dev_cmsis.git"/>
+		<item value="https://gitlab.com/encps/bucknell/eceg247/spring2020/release/h03a_intro_sw_dev_macro.git"/>
+		<item value="https://gitlab.com/encps/bucknell/eceg247/spring2020/release/h03a_intro_sw_dev_tidriverlib.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+</section>

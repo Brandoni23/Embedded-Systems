@@ -1,0 +1,20 @@
+
+**** Build of configuration Debug for project h03a_intro_sw_dev_tidriverlib ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 12 all -O 
+ 
+Building target: "h03a_intro_sw_dev_tidriverlib.out"
+Invoking: GNU Linker
+"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc.exe" -D__MSP432P401R__ -DDeviceFamily_MSP432P401x -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-Map,"h03a_intro_sw_dev_tidriverlib.map" -static -Wl,--gc-sections -L"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source" -L"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard" -L"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib" -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 --specs=nano.specs -o"h03a_intro_sw_dev_tidriverlib.out" "./system_msp432p401r.o" "./tidriverlib.o" "./gcc/startup_msp432p401r_gcc.o" "../h03a_intro_sw_dev_tidriverlib/Debug/system_msp432p401r.o" "../h03a_intro_sw_dev_tidriverlib/Debug/tidriverlib.o" "../h03a_intro_sw_dev_tidriverlib/Debug/gcc/startup_msp432p401r_gcc.o" "./h03a_intro_sw_dev_tidriverlib/gcc/startup_msp432p401r_gcc.o" "./h03a_intro_sw_dev_tidriverlib/system_msp432p401r.o" "./h03a_intro_sw_dev_tidriverlib/tidriverlib.o" -Wl,-T"../msp432p401r.lds" -Wl,-T"../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds"  -l:"ti/display/lib/display.am4fg" -l:"ti/grlib/lib/gcc/m4f/grlib.a" -l:"third_party/spiffs/lib/gcc/m4f/spiffs.a" -l:"ti/drivers/lib/drivers_msp432p401x.am4fg" -l:"third_party/fatfs/lib/gcc/m4f/fatfs.a" -l:"ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a" -lgcc -lc -lm -lnosys 
+makefile:169: recipe for target 'h03a_intro_sw_dev_tidriverlib.out' failed
+c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/bin/ld.exe:../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds:41: warning: redeclaration of memory region `MAIN_FLASH'
+c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/bin/ld.exe:../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds:42: warning: redeclaration of memory region `INFO_FLASH'
+c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/bin/ld.exe:../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds:43: warning: redeclaration of memory region `SRAM_CODE'
+c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/bin/ld.exe:../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds:44: warning: redeclaration of memory region `SRAM_DATA'
+c:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/bin/ld.exe:../h03a_intro_sw_dev_tidriverlib/msp432p401r.lds:47: error: redefinition of memory region alias `REGION_TEXT'
+collect2.exe: error: ld returned 1 exit status
+gmake[1]: *** [h03a_intro_sw_dev_tidriverlib.out] Error 1
+gmake: *** [all] Error 2
+makefile:165: recipe for target 'all' failed
+
+**** Build Finished ****

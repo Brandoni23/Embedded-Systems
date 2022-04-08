@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project h03a_intro_sw_dev_pure ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 12 all -O 
+ 
+gmake[1]: 'h03a_intro_sw_dev_pure.out' is up to date.
+
+**** Build Finished ****

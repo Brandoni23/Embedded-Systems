@@ -1,0 +1,30 @@
+
+**** Build of configuration Debug for project h03b_rev_sw_dev_macro2 ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 12 all -O 
+ 
+Building file: "../gcc/startup_msp432p401r_gcc.c"
+Invoking: GNU Compiler
+"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc.exe" -c -mcpu=cortex-m4 -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -D__MSP432P401R__ -DDeviceFamily_MSP432P401x -I"C:/Users/marti/OneDrive/Documents/ECEG 247/Git Folder/brandon_macro" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source/third_party/CMSIS/Include" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include/newlib-nano" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include" -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"gcc/startup_msp432p401r_gcc.d" -MT"gcc/startup_msp432p401r_gcc.o" -std=c99  -o"gcc/startup_msp432p401r_gcc.o" "../gcc/startup_msp432p401r_gcc.c"
+Finished building: "../gcc/startup_msp432p401r_gcc.c"
+ 
+Building file: "../macro.c"
+Invoking: GNU Compiler
+"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc.exe" -c -mcpu=cortex-m4 -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -D__MSP432P401R__ -DDeviceFamily_MSP432P401x -I"C:/Users/marti/OneDrive/Documents/ECEG 247/Git Folder/brandon_macro" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source/third_party/CMSIS/Include" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include/newlib-nano" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include" -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"macro.d" -MT"macro.o" -std=c99  -o"macro.o" "../macro.c"
+../macro.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+Finished building: "../macro.c"
+ 
+Building file: "../system_msp432p401r.c"
+Invoking: GNU Compiler
+"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc.exe" -c -mcpu=cortex-m4 -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -D__MSP432P401R__ -DDeviceFamily_MSP432P401x -I"C:/Users/marti/OneDrive/Documents/ECEG 247/Git Folder/brandon_macro" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source" -I"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source/third_party/CMSIS/Include" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include/newlib-nano" -I"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include" -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"system_msp432p401r.d" -MT"system_msp432p401r.o" -std=c99  -o"system_msp432p401r.o" "../system_msp432p401r.c"
+Finished building: "../system_msp432p401r.c"
+ 
+Building target: "h03b_rev_sw_dev_macro2.out"
+Invoking: GNU Linker
+"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc.exe" -D__MSP432P401R__ -DDeviceFamily_MSP432P401x -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-Map,"h03b_rev_sw_dev_macro2.map" -static -Wl,--gc-sections -L"C:/ti/simplelink_msp432p4_sdk_3_10_00_08/source" -L"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard" -L"C:/ti/ccs901/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/lib" -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 --specs=nano.specs -o"h03b_rev_sw_dev_macro2.out" "./macro.o" "./system_msp432p401r.o" "./gcc/startup_msp432p401r_gcc.o" -Wl,-T"../msp432p401r.lds"  -l:"ti/display/lib/display.am4fg" -l:"ti/grlib/lib/gcc/m4f/grlib.a" -l:"third_party/spiffs/lib/gcc/m4f/spiffs.a" -l:"ti/drivers/lib/drivers_msp432p401x.am4fg" -l:"third_party/fatfs/lib/gcc/m4f/fatfs.a" -l:"ti/devices/msp432p4xx/driverlib/gcc/msp432p4xx_driverlib.a" -lgcc -lc -lm -lnosys 
+Finished building target: "h03b_rev_sw_dev_macro2.out"
+ 
+
+**** Build Finished ****
